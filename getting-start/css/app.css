@@ -1,0 +1,23 @@
+#btn_download_chrome_extension {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: fixed;
+    top: 80vh;
+    left: 85vw;
+    z-index: 9999;
+
+    width: 100px;
+    height: 100px;
+
+    border-radius: 50px;
+    background-color: #2c8a0f;
+    border: solid 2px purple;
+
+    font-size: 1.5em;
+    color: white;
+
+    cursor: pointer;
+    user-select: none;
+}
